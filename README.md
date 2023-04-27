@@ -2,6 +2,8 @@
 
 This plugin is the pure lua replacement for [github/copilot.vim](https://github.com/github/copilot.vim).
 
+This is a fork of [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) with changes to make it work with another fork [dragaoazuljr/fauxpilot](https://github.com/dragaoazuljr/fauxpilot).
+
 <details>
 <summary>Motivation behind `copilot.lua`</summary>
 
